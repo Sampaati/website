@@ -1,4 +1,4 @@
-FROM hshar/weapp
+FROM hshar/webapp
 
 ADD . /var/www/html
 
